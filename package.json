@@ -1,0 +1,26 @@
+{
+  "name": "react-sample-app-1",
+  "version": "1.0.0",
+  "description": "My First React Sample Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanuelraj/react-sample-application-1.git"
+  },
+  "keywords": [
+    "react",
+    "sample",
+    "app",
+    "Hello",
+    "World"
+  ],
+  "author": "Allen Emanuel Raj D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanuelraj/react-sample-application-1/issues"
+  },
+  "homepage": "https://github.com/emanuelraj/react-sample-application-1#readme"
+}
